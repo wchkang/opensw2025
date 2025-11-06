@@ -3,5 +3,5 @@
 
 #include <stdio.h>
 
-void good(void);
+void goo(void);
 #endif 
